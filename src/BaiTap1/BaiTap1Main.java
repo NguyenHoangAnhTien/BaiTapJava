@@ -10,5 +10,6 @@ package BaiTap1;
  * @author PC
  */
 public class BaiTap1Main {
+    //ten toi la tien
 }
 
